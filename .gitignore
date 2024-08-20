@@ -1,1 +1,3 @@
 /Classes/
+.~lock*
+*__pycache__/
