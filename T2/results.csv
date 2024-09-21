@@ -3,3 +3,4 @@ Algoritmo;br_cities_00;br_cities_01;br_cities_10;br_cities_11
 Floresta Aleatória;0.857;0.859;0.843;0.847
 Floresta Extra.;0.866;0.872;0.854;0.858
 KNN;0.799;0.812;0.788;0.799
+Regressão Linear;0.723;0.709;-1.743;0.715
