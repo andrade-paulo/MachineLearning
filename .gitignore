@@ -2,3 +2,4 @@
 .~lock*
 *__pycache__/
 muscleHunter/*/*.jpg
+muscleHunter/*/*.sav
